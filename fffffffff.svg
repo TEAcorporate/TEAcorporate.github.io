@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F0F0F0;}
+	.st1{opacity:0.5;fill:#787878;}
+	.st2{fill:#64DCB4;}
+	.st3{opacity:0.2;}
+	.st4{fill:#787878;}
+</style>
+<rect class="st0" width="1920" height="1080"/>
+<g>
+	<rect y="106" class="st1" width="1920" height="416"/>
+	<rect class="st2" width="1920" height="104"/>
+	<rect y="104" class="st3" width="1920" height="2"/>
+	<path class="st4" d="M295.2,59H86.8c-3.8,0-6.8-3.1-6.8-6.8v-0.3c0-3.8,3.1-6.8,6.8-6.8h208.3c3.8,0,6.8,3.1,6.8,6.8v0.3
+		C302,55.9,298.9,59,295.2,59z"/>
+	<path class="st4" d="M366.6,78h-39.3c-3.5,0-6.4-2.9-6.4-6.4V32.4c0-3.5,2.9-6.4,6.4-6.4h39.3c3.5,0,6.4,2.9,6.4,6.4v39.3
+		C373,75.1,370.1,78,366.6,78z"/>
+	<path class="st4" d="M960,170L960,170c-44,0-80-36-80-80v0c0-44,36-80,80-80h0c44,0,80,36,80,80v0C1040,134,1004,170,960,170z"/>
+	<path class="st0" d="M1574.1,82h251.7c7.8,0,14.1-6.4,14.1-14.1V36.1c0-7.8-6.4-14.1-14.1-14.1h-251.7c-7.8,0-14.1,6.4-14.1,14.1
+		v31.7C1560,75.6,1566.4,82,1574.1,82z"/>
+</g>
+<rect x="810" y="650" class="st4" width="300" height="300"/>
+<circle class="st4" cx="420" cy="840" r="151"/>
+<polygon class="st4" points="1520,670 1346.8,970 1693.2,970 "/>
+</svg>
