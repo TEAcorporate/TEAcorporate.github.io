@@ -15,6 +15,7 @@
                 font: 500 100px/100px Calibri;
                 text-align: center;
                 color: rgb(240, 240, 240);
+                transition: all .2s;
             }
             .main {
                 font: inherit;
@@ -25,7 +26,8 @@
                 width: 100%;
                 height: 104px;
                 background: rgb(100, 220, 180);
-                box-shadow: 0px 3px 6px rgba(100, 220, 180, 0.6);
+                /* box-shadow: 0px 3px 6px rgba(100, 220, 180, 0.6); */
+                box-shadow: 0px 20px 100px rgba(0,0,0,1);
             }
             .photo {
                 width: 100%;
@@ -38,10 +40,13 @@
                 position: absolute;
                 width: 160px;
                 height: 160px;
-                left: 880px;
+                left: 50%;
                 margin-top: 5px;
                 border-radius: 50%;
                 background: rgb(120, 120, 120);
+                margin-left: -80px;
+                box-shadow: 0 0 10px rgba(0,0,0,0.3);
+                transition: all .2s;
                 
             }
             .search {
@@ -50,17 +55,21 @@
                 height: 60px;
                 right: 80px;
                 background: rgb(240, 240, 240);
-                top: 62px;
+                margin-top: 50%;
                 border-radius: 10px;
+                bottom: 20px;
+                transition: all .2s;
 
             }
             .name {
-                
                 width: 222px;
                 height: 14px;
                 background: rgb(120, 120, 120);
                 border-radius: 10px;
-                top: 52px;
+                position: absolute;
+                margin-top: inherit;
+                left: 20px;
+                transition: all .2s;
             }
         </style>
     </head>
