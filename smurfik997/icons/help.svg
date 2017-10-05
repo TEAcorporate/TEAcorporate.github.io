@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 190 170" style="enable-background:new 0 0 190 170;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#787878;}
+	.st1{fill:#9E9E9E;}
+	.st2{fill:none;}
+	.st3{fill:none;stroke:#808080;stroke-width:9.9917;stroke-miterlimit:10;}
+	.st4{fill:#808080;}
+	.st5{fill:none;stroke:#808080;stroke-width:15.9867;stroke-miterlimit:10;}
+	.st6{display:none;}
+</style>
+<g id="Help">
+	<g id="Block_1_">
+		<path id="MainBlock_1_" class="st0" d="M183,170H7c-3.9,0-7-3.2-7-7V7.3c0-3.9,3.2-7,7-7h176c3.9,0,7,3.2,7,7V163
+			C190,166.8,186.8,170,183,170z"/>
+		<ellipse class="st1" cx="95" cy="85.1" rx="75" ry="74.9"/>
+		<ellipse class="st0" cx="93" cy="144" rx="8" ry="8"/>
+		<line class="st2" x1="123.6" y1="68.5" x2="126.5" y2="68.5"/>
+		<path class="st3" d="M152.6,100.8"/>
+		<path class="st3" d="M96.7,97.2"/>
+		<path class="st3" d="M63.3,78"/>
+		<path class="st3" d="M64.7,66.7"/>
+		<ellipse class="st4" cx="56.2" cy="61.2" rx="8" ry="8"/>
+		<path class="st5" d="M93,125.1c0-13.8,8.2-25.8,20.3-31.9c12.1-6.1,20.3-18.1,20.3-31.9c0-20.1-17.3-36.4-38.7-36.4
+			S56.2,41.2,56.2,61.2"/>
+		<ellipse class="st4" cx="93" cy="125.1" rx="8" ry="8"/>
+	</g>
+	<g id="Lines_2_" class="st6">
+	</g>
+</g>
+</svg>

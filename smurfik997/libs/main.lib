@@ -1,0 +1,4 @@
+//function for get blocks 
+function doc(val, num) {
+    return num != undefined ? document.getElementsByClassName(val)[num] : document.getElementById(val);
+}
